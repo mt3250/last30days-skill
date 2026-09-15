@@ -49,3 +49,6 @@ docs/brainstorms/
 
 /work
 /print
+
+# One-off demo media; keep generated captures out of release source.
+/media/pr-assets/gogcli-589-zoom-demo.gif
